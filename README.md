@@ -13,7 +13,7 @@ This is a simple blog application developed using Django. Users can create, edit
 - User registration and login system
 - Create, edit, and delete blog posts
 - List and view details of blog posts
-- Comment system
+- Comment system (soon)
 - Admin panel for managing the site
 
 ![image](https://github.com/malicaki/BlogApp/assets/77901410/adeec4c6-a784-41b6-8c70-c40fa1900fcc)
