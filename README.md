@@ -29,4 +29,4 @@ This is a simple blog application developed using Django. Users can create, edit
 1. **Clone the repository:**
    ```sh
    git clone https://github.com/malicaki/BlogApp.git
-   cd blog-app
+   cd blog
